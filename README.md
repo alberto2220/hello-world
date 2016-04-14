@@ -1,2 +1,4 @@
 # hrello-world
-This repository will be a place where I store ideas, resources, or even share and discuss things with others
+
+This repository allow me to understand if I´m able to create a new branch with and meka some commits.
+
